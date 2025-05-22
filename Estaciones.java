@@ -15,7 +15,7 @@ public class Estaciones{
      public static void main(String[] args){
         int option = ObtnerNumero("Enter a number 1 - 12");
 
-        Switch(option){
+        switch(option){
             case 1 :
             case 2 :
             case 12 :
